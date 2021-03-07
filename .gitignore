@@ -1,0 +1,114 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+
+#------------------------pmj--------------------------------
+Readme.txt
+
+ko/
+lib/
+obj/
+init/
+component/
+tools/
+
+
+sample/audio           
+sample/ExpertCode_Main         
+sample/hifb_en          
+sample/region      
+sample/snap 
+sample/awb_online_calibration  
+sample/ExpertCode_UI           
+sample/lsc_online_cali  
+sample/rtsp
+sample/calcflicker          
+sample/ExpertCode_UI_1024x600  
+sample/rtsp-h264    
+sample/tde              
+sample/vgs
+sample/fisheye                 
+sample/scene_auto     
+sample/traffic_capture  
+sample/vio
+sample/dis                    
+sample/hifb                             
+sample/uvc_app          
+sample/vo
+sample/svp
+
+sample/vdec/source_file/
+
+
+#------------------------pmj--------------------------------
+
+*~
+*.autosave
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+tags
+.DS_Store
+.directory
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Thumbs.db
+*.res
+*.rc
+/.qmake.cache
+/.qmake.stash
+
+# qtcreator generated files
+*.pro.user*
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+
+# Binaries
+# --------
+*.dll
+*.exe
+
